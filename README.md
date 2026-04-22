@@ -1,2 +1,2 @@
-# my-first-project
-it era
+# TRYING OUT CRUD
+for my activity
